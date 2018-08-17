@@ -1,0 +1,10 @@
+{
+	"BuildId": "3944462",
+	"Modules": 
+	{
+		"CoreUtility": "UE4Editor-CoreUtility-4471.dll",
+		"SIOJEditorPlugin": "UE4Editor-SIOJEditorPlugin-4471.dll",
+		"SIOJson": "UE4Editor-SIOJson-4471.dll",
+		"SocketIOClient": "UE4Editor-SocketIOClient-4471.dll"
+	}
+}
